@@ -61,6 +61,7 @@ PRODUCT_PACKAGES += \
     audio.primary.bengal \
     audio.primary.default \
     audio.usb.default \
+    audio.usbv2.default \
     libaudio-resampler \
     libqcompostprocbundle \
     libqcomvisualizer \
