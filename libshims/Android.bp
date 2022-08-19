@@ -1,0 +1,11 @@
+//
+// Copyright (C) 2021 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+cc_library_shared {
+    name: "libmialgocontrol_shim",
+    srcs: ["libmialgocontrol_shim.c"],
+    vendor: true,
+}
